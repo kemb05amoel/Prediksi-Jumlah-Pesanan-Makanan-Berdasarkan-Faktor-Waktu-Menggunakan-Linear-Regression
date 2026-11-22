@@ -112,7 +112,8 @@ Disarankan menggunakan Python 3.11 atau 3.12.
 ## Tim
 **ARUS BAWAH — Kelompok 64**
 
-Tambahkan nama dan NIM seluruh anggota kelompok sebelum pengumpulan akhir.
+Muhammad Fatkhan Kurniadi 123240253
+Auron Andrew Aqila 123240236
 
 ---
 Proyek ini disusun untuk keperluan pembelajaran dan proyek akhir mata kuliah Data Science.
